@@ -90,4 +90,3 @@ The system uses a two-phase initialization pattern in GenServer to ensure proper
 
 - Elixir 1.17 or higher
 - Erlang/OTP 26 or higher
->>>>>>> 908802e35d7b7889e4ed6e75843dc15e33847d58
